@@ -1,1 +1,3 @@
-worker: python dm.py, python like.py, python retweet.py
+worker: python dm.py
+worker: python like.py
+worker: retweet.py

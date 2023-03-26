@@ -1,4 +1,4 @@
-certifi==2021.5.30
+certifi==2022.12.7
 chardet==3.0.4
 httplib2==0.19.1
 idna==3.2

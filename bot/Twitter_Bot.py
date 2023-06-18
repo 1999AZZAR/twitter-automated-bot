@@ -5,7 +5,7 @@ import _json
 from requests_oauthlib import OAuth1
 import requests
 import os
-from async_upload import VideoTweet
+from Video_Uploader import VideoTweet
 
 
 # This class is a bunch of twitter function

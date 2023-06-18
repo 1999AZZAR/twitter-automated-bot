@@ -22,32 +22,32 @@ Before running the code, make sure you have the following:
 ### 1. Twitter Video Uploader
 
 - Description: This Python code allows you to upload videos to Twitter using the Twitter API. The code uses the OAuth1 authentication flow and provides a `VideoTweet` class that handles the video uploading process.
-- File: `twitter_video_uploader.py`
-- Explanation
+- File: [`video_uploader.py`](https://github.com/1999AZZAR/twitter-automated-bot/blob/main/bot/Video_Uploader.py)
+- [Explanation](https://github.com/1999AZZAR/twitter-automated-bot/blob/main/readme/Twitter%20Video%20Uploader.md)
 
 ### 2. Twitter Retweet Bot
 
 - Description: This Python script allows you to create a bot that searches for tweets based on specific hashtags and automatically retweets them using the Twitter API. The code utilizes the Tweepy library for authentication and retweet functionality.
-- File: `retweet_bot.py`
-- Explanation
+- File: [`retweet_bot.py`](https://github.com/1999AZZAR/twitter-automated-bot/blob/main/bot/Retweet_Bot.py)
+- [Explanation](https://github.com/1999AZZAR/twitter-automated-bot/blob/main/readme/Twitter%20Retweet%20Bot.md)
 
 ### 3. Twitter Like Bot
 
 - Description: This Python script allows you to create a bot that searches for tweets based on a specific search query and automatically likes them using the Twitter API. The code utilizes the Tweepy library for authentication and like functionality.
-- File: `like_bot.py`
-- Explanation
+- File: [`like_bot.py`](https://github.com/1999AZZAR/twitter-automated-bot/blob/main/bot/Like_Bot.py)
+- [Explanation](https://github.com/1999AZZAR/twitter-automated-bot/blob/main/readme/Twitter%20Like%20Bot.md)
 
 ### 4. Twitter Direct Message Processor
 
 - Description: This Python script allows you to process direct messages (DMs) on Twitter using the Twitter API. The code utilizes the `Twitter` class from the `twitter` module to interact with the Twitter API and perform actions such as reading DMs, posting tweets, and deleting DMs.
-- File: `dm_processor.py`
-- Explanation
+- File: [`dm_processor.py`](https://github.com/1999AZZAR/twitter-automated-bot/blob/main/bot/DM_Processor.py)
+- [Explanation](https://github.com/1999AZZAR/twitter-automated-bot/blob/main/readme/Twitter%20Direct%20Message%20Processor.md)
 
 ### 5. Twitter Media Upload Bot
 
 - Description: This Python script allows you to create a bot that uploads images or videos to Twitter using the Twitter API. The code utilizes the Tweepy library for authentication and media upload functionality. The script provides a `MediaUploadBot` class that handles the media uploading process.
-- File: `twitter.py`
-- Explanation
+- File: [`twitter_bot.py`](https://github.com/1999AZZAR/twitter-automated-bot/blob/main/bot/Twitter_Bot.py)
+- [Explanation](https://github.com/1999AZZAR/twitter-automated-bot/blob/main/readme/Twitter%20Bot%20with%20Media%20Upload.md)
 
 ## Usage
 
